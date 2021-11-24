@@ -6,5 +6,5 @@
 - HTML5
 
 # Installation
-Download all the 5 HTML files and images in the same directory.
+Download 5 HTML files and images folder in the same directory.
 
