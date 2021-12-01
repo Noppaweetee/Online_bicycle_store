@@ -8,3 +8,4 @@
 # Installation
 Download 5 HTML files and images folder in the same directory.
 
+In lecture 10, I combine product page and cart page in shopping_cart.html file
